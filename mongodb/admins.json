@@ -1,0 +1,65 @@
+{
+	"_id": {
+		"$oid": "5c0a85c8bc5ec9a628857c81"
+	},
+	"adminId": "13527275970",
+	"adminName": "管理员",
+	"adminPassWord": "123456",
+	"__v": 13,
+	"joinUsApplyList": [{
+		"gender": 1,
+		"grade": 0,
+		"applycount": 1,
+		"isHandle": true,
+		"isJoinUsOk": true,
+		"_id": {
+			"$oid": "5c0cc3ff3c724d6e24fb01f8"
+		},
+		"userName": "用户",
+		"phoneNum": "13223232323",
+		"address": "addressaa",
+		"regDate": "2020-12-09 15:16:58",
+		"userId": "13223232323",
+		"applyTime": "2020-12-09 15:27:59",
+		"passwordQuestion": "小学班主任老师",
+		"questionAnswer": "123456",
+		"OrderNUm": "1",
+		"handleTime": "2021-02-28 19:08:39"
+	}, {
+		"gender": 1,
+		"grade": 0,
+		"applycount": 1,
+		"isHandle": true,
+		"isJoinUsOk": true,
+		"_id": {
+			"$oid": "5c0cc3ff3c724d6e24fb01f8"
+		},
+		"userName": "用户",
+		"phoneNum": "13223232323",
+		"address": "addressaa",
+		"regDate": "2020-12-09 15:16:58",
+		"userId": "1322ssssss3",
+		"applyTime": "2020-12-09 15:27:59",
+		"passwordQuestion": "小学班主任老师",
+		"questionAnswer": "123456",
+		"OrderNUm": "1",
+		"handleTime": "2021-02-28 19:08:39"
+	}],
+	"suggestList": [{
+		"_id": {
+			"$oid": "603c931402071c28e8c66a66"
+		},
+		"userName": "12323232323",
+		"phoneNum": "13223232323",
+		"suggestText": "test critical",
+		"submitTime": "2021-03-01 15:09:08"
+	}, {
+		"_id": {
+			"$oid": "603f2ea2a6e01d08682c06e0"
+		},
+		"userName": "132",
+		"phoneNum": "13223232323",
+		"suggestText": "test suggestlist2",
+		"submitTime": "2021-03-03 14:37:22"
+	}]
+}

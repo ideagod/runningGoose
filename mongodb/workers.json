@@ -1,0 +1,66 @@
+{
+	"_id": {
+		"$oid": "603b79b7bd109a18c8616a4c"
+	},
+	"balance": 1,
+	"alipayAccountzhiFuBao": [],
+	"alipayAccountBankCard": [],
+	"gender": 1,
+	"grade": 1,
+	"phoneNum": "13434343434",
+	"lastLoginTime": "2021-03-05 09:50:40",
+	"regDate": "2021-02-28 14:43:44",
+	"userId": "13434343434",
+	"passWord": "123456",
+	"passwordQuestion": "最喜欢的食物",
+	"questionAnswer": "aa",
+	"theJoinUsTime": "2021-02-28 19:08:39",
+	"messages": [{
+		"isRead": true,
+		"_id": {
+			"$oid": "603b79b7bd109a18c8616a4d"
+		},
+		"title": "恭喜成为工作人员!(2021-02-28 19:08:39)",
+		"cont": "您的申请在 2021-02-28 19:08:39 被管理员审核通过,\n                欢迎成为我们的一员!您可以在 接单大厅>>订单列表 中选择你\n                想接受的订单,然后完成配送,用户确认后你就可以获得收益,在\n                个人中心 >>我的钱包 中查看余额等操作.\n                感谢您的加入, 祝您生活愉快!",
+		"sendTime": "2021-02-28 19:08:39"
+	}, {
+		"isRead": true,
+		"_id": {
+			"$oid": "603c84a102071c28e8c66a5f"
+		},
+		"title": "testwoker(2021-03-01 14:07:29)",
+		"cont": "testwoker",
+		"sendTime": "2021-03-01 14:07:29"
+	}, {
+		"isRead": true,
+		"_id": {
+			"$oid": "603c92cd02071c28e8c66a65"
+		},
+		"title": "用户完成订单,收益到账(2021-03-01 15:07:57)",
+		"cont": "您在 2021-03-01 15:03:17 接收的订单(订单号: 2323210301150150)已完成,\n                              用户已确认收货,收益+ 1 元, 可在 个人中心>>我的钱包中查收.\n                              感谢您的付出,您辛苦了! 祝您生活愉快!",
+		"sendTime": "2021-03-01 15:07:57"
+	}],
+	"wokerOrderList": [{
+		"company": ["顺丰"],
+		"goodsCode": ["123345"],
+		"_id": {
+			"$oid": "603c915e02071c28e8c66a60"
+		},
+		"orderState": "已完成",
+		"goodsTpye": "生活用品",
+		"goodsSize": "较小",
+		"Price": 1,
+		"goodsNumber": 1,
+		"remarks": "test132",
+		"orderId": "2323210301150150",
+		"createTime": "2021-03-01 15:01:50",
+		"createOrderPeople": "132用户",
+		"createOrderPeoplePhone": "13223232323",
+		"address": "adressaa",
+		"receivedDate": "2021-03-01 15:03:17",
+		"completedData": "2021-03-01 15:07:57"
+	}],
+	"__v": 5,
+	"loginTime": "2021-03-05 09:50:40",
+	"workerOrderList": []
+}
